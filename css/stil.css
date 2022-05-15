@@ -16,11 +16,11 @@ ul.navbar-nav>li.nav-item.dropdown>.dropdown-menu>a{
 }
 footer{
     padding: 2rem;
-    background-color:#e6e6e6;
+    background-color:#F3D8CF;
     margin-top: 2rem;
 }
 footer a{
-    color: #F3D8CF;
+    color: #000000;
     transition: 0.1s ease-in;
     padding: 0.2rem;
     letter-spacing: 0.1rem;
