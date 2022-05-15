@@ -1,0 +1,37 @@
+ul.navbar-nav>li>a{
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+ul.navbar-nav>li.nav-item.dropdown>.dropdown-menu>a{
+    letter-spacing: 0.01rem;
+    text-transform: uppercase;
+}
+.list-unstyled li{
+    padding: 1.5rem;
+    border-bottom: 1px solid black;
+}
+.list-unstyled li a{
+    color: black;
+    text-decoration: none;
+}
+footer{
+    padding: 2rem;
+    background-color:#e6e6e6;
+    margin-top: 2rem;
+}
+footer a{
+    color: #F3D8CF;
+    transition: 0.1s ease-in;
+    padding: 0.2rem;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+footer p{
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+footer a:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
