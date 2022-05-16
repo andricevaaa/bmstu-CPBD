@@ -1,0 +1,48 @@
+1|A.C.E|group|0
+2|ASTRO|group|0
+3|ASTRO-MOONBIN AND SANHA|group|2
+4|ATEEZ|group|0
+5|BAEKHYUN|solo|13
+6|BLACKPINK|group|0
+7|BTS|group|0
+8|CRAVITY|group|0
+9|DAY6|group|0
+10|DREAMCATCHER|group|0
+11|ENHYPEN|group|0
+12|EVERGLOW|group|0
+13|EXO|group|0
+14|EXO-CBX|group|13
+15|GFRIEND|group|0
+16|GIDLE|group|0
+17|GOT7|group|0
+18|HAN SEUNGWOO|solo|44
+19|ITZY|group|0
+20|IZONE|group|0
+21|KAI|solo|13
+22|LOONA|group|0
+23|MAMAMOO|group|0
+24|MCND|group|0
+25|MINO|solo|46
+26|MOMOLAND|group|0
+27|MONSTA X|group|0
+28|NCT|group|0
+29|NCT 127|group|28
+30|NCT DREAM|group|28
+31|ONEUS|group|0
+32|PENTAGON|group|0
+33|RED VELVET|group|0
+34|RED VELVET - IRENE&SEULGI|group|33
+35|SEVENTEEN|group|0
+36|SHINEE|group|0
+37|STRAY KIDS|group|0
+38|SUPERM|group|0
+39|TAEMIN|solo|36
+40|THE BOYZ|group|0
+41|TREASURE|group|0
+42|TWICE|group|0
+43|TXT|group|0
+44|VICTON|group|0
+45|WAYV|group|28
+46|WINNER|group|0
+47|WONHO|group|27
+48|WOODZ|group|0

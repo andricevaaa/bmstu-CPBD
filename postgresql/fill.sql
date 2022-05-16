@@ -1,0 +1,1 @@
+COPY Artist FROM 'C:/Users/katar/Desktop/MSTU Bauman/github/bmstu-CPBD/data/artists.txt' WITH (DELIMITER '|');
